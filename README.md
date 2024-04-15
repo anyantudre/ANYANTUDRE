@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Detection of IoT Botnet using Machine Learning competition](https://github.com/ANYANTUDRE/EAIC-Data-Competition-V2)
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Large Language Models (LLMs) 🤗**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ANYANTUDRE?tab=repositories](https://github.com/ANYANTUDRE?tab=repositories)
 
 - 📝 I regularly write articles on [https://anyantudre.medium.com/](https://anyantudre.medium.com/)
 
-- 💬 Ask me about **ML & DL, scikit-learn, pandas, seaborn...**
+- 💬 Ask me about **Deep Learning, Keras, TensorFlow...**
 
 - 📫 How to reach me **nyantudrealban@gmail.com**
 
