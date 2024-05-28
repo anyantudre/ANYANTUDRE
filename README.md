@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://anyantudre.medium.com/](https://anyantudre.medium.com/)
 
-- 💬 Ask me about **Deep Learning, Keras, TensorFlow...**
+- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, NLP, Python...**
 
 - 📫 How to reach me **nyantudrealban@gmail.com**
 
