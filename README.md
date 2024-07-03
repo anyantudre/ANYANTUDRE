@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alban</h1>
-<h3 align="center">A passionnate Data Engineering and ML/AI student</h3>
+<h1 align="center">Hi 👋🏾, Welcome to Alban's GitHub profile </h1>
+<h3 align="center"> <b>ML Engineer👨🏾‍💻 | Data Science & AI 🤖 | Data Engineering & MLOps enthusiast🔄 </b></h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anyantudre" alt="anyantudre" /></a> </p>
 
-- 🔭 I’m currently working on [Detection of IoT Botnet using Machine Learning competition](https://github.com/ANYANTUDRE/EAIC-Data-Competition-V2)
+- 🔭 I’m currently working on [LLM Zoomcamp 2024 Competition](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition)
 
-- 🌱 I’m currently learning **Large Language Models (LLMs) 🤗**
+- 🌱 I’m currently learning **Large Language Models (LLMs) and RAG 🤗**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ANYANTUDRE?tab=repositories](https://github.com/ANYANTUDRE?tab=repositories)
 
