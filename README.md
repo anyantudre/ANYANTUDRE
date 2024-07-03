@@ -83,7 +83,7 @@
   </a> 
 
    <a href="https://huggingface.co/docs/transformers/index" target="_blank" rel="noreferrer"> 
-    <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers_logo_name.png" alt="transformers" width="100" height="40"/> 
+    <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers_logo_name.png" alt="transformers" width="110" height="40"/> 
   </a> 
 
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
