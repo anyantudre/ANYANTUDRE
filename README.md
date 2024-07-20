@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋🏾, Welcome ...</h1>
 <h3 align="center"> <b>ML Engineer👨🏾‍💻 | Data Science & AI 🤖 | Data Engineering & MLOps enthusiast🔄 </b></h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+
+
 - 🔭 I’m currently working on [LLM Zoomcamp 2024 Competition](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition)
 
 - 🌱 I’m currently learning **Large Language Models (LLMs) and RAG 🤗**
