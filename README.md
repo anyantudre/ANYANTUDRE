@@ -2,7 +2,7 @@
 <h3 align="center"> <b>ML Engineer👨🏾‍💻 | Data Science & AI 🤖 | Data Engineering & MLOps enthusiast🔄 </b></h3>
 
 <div align=center>
-          <img alt="gif" align="center" src="" width=300 height=300/>
+          <img alt="gif" align="center" src="https://github.com/ANYANTUDRE/ANYANTUDRE/blob/main/img/linkedin%20banner.png" width=1500 height=250/>
 </div>
 
 - 🔭 I’m currently working on [LLM Zoomcamp 2024 Competition](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition)
