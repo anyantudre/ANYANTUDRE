@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋🏾, Welcome ...</h1>
-<h3 align="center"> <b>ML Engineer👨🏾‍💻 | Data Science & AI 🤖 | Data Engineering & MLOps enthusiast🔄 </b></h3>
+<h1 align="center">Hi👋🏾, I'm:</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=New+Amsterdam&weight=900&size=75&pause=1000&color=FFCC00&background=FFCC0000&center=true&vCenter=true&width=1800&height=200&lines=Machine+Learning+Engineer+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Data+Scientist+%26+NLP+practitioner+%F0%9F%A4%96;Specializing+in+Data+Engineering+%26+MLOps+%F0%9F%94%84)](https://git.io/typing-svg)
 
 <div align=center>
           <img alt="gif" align="center" src="https://github.com/ANYANTUDRE/ANYANTUDRE/blob/main/img/linkedin%20banner.png" width=1500 height=250/>
