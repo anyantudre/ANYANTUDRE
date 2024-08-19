@@ -6,7 +6,7 @@
           <img alt="gif" align="center" src="https://github.com/ANYANTUDRE/ANYANTUDRE/blob/main/img/linkedin%20banner.png" width=1000 height=200/>
 </div>
 
-<h4 align="center">A firm believer in the power of AI to drive change and make our world and Africa in particula a better place 🌱</h4>
+<h4 align="center">A firm believer in the power of Data combined with AI to drive meaningful change and make our world and Africa in particula a better place 🌱</h4>
 
 - 🔭 I’m currently working on [LLM Zoomcamp 2024 Competition](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition)
 
