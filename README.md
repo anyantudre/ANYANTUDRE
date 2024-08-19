@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋🏾, Welcome ...</h1>
 <h3 align="center"> <b>ML Engineer👨🏾‍💻 | Data Science & AI 🤖 | Data Engineering & MLOps enthusiast🔄 </b></h3>
 
+<div align=center>
+          <img alt="gif" align="center" src="" width=300 height=300/>
+</div>
 
 - 🔭 I’m currently working on [LLM Zoomcamp 2024 Competition](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition)
 
