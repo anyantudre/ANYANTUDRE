@@ -2,7 +2,7 @@
           <img alt="gif" align="center" src="https://github.com/ANYANTUDRE/ANYANTUDRE/blob/main/img/linkedin%20banner.png" width=1000 height=200/>
 </div>
 
-<h4 align="center">A firm believer in the power of Data combined with AI to drive meaningful change and make our world and Africa in particula a better place 🌱</h4>
+<h4 align="center">A firm believer in the power of Data combined with AI to drive meaningful change and make our world and Africa in particular a much better place 🌱</h4>
 
 - 🔭 I’m currently working on **Neural Machine Translation(NMT) and Text to Speech(TTS) models for [Mooré language](https://en.wikipedia.org/wiki/Moor%C3%A9)**
 
