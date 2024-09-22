@@ -18,19 +18,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anyantudre/](https://www.linkedin.com/in/anyantudre/)
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/anyantudre" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anyantudre" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/waalbannyantudre" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="waalbannyantudre" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@anyantudre" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anyantudre" height="30" width="40" />
-  </a>
-</p>
-
 <h2 align="center">Languages and Tools:</h3>
 <p align="center"> 
 
@@ -93,11 +80,4 @@
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.freecodecamp.org/news/content/images/2024/03/1700940849777.png" alt="sqlite" width="80" height="40"/> 
   </a> 
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anyantudre&show_icons=true&locale=en&layout=compact" alt="anyantudre" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=anyantudre&show_icons=true&locale=en" alt="anyantudre" />
 </p>
