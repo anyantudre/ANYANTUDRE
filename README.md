@@ -4,15 +4,15 @@
 
 <h4 align="center">A firm believer in the power of Data combined with AI to drive meaningful change and make our world and Africa in particula a better place 🌱</h4>
 
-- 🔭 I’m currently working on [LLM Zoomcamp 2024 Competition](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition)
+- 🔭 I’m currently working on **Neural Machine Translation(NMT) and Text to Speech(TTS) models for [Mooré language](https://en.wikipedia.org/wiki/Moor%C3%A9)**
 
-- 🌱 I’m currently learning **Large Language Models (LLMs) and RAG 🤗**
+- 🌱 I’m currently learning **Machine Learning Operations (MLOps)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ANYANTUDRE?tab=repositories](https://github.com/ANYANTUDRE?tab=repositories)
 
 - 📝 I regularly write articles on [https://anyantudre.medium.com/](https://anyantudre.medium.com/)
 
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, NLP, Data Engineering, MLOps...**
+- 💬 Top Skills **Data Science, Machine Learning, Deep Learning, NLP, Data Engineering, MLOps...**
 
 - 📫 How to reach me **nyantudrealban@gmail.com**
 
