@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Operations (MLOps)**
 
-- 🏋🏾‍♂️ Top Skills **Data Science, Machine Learning, Deep Learning, NLP, Data Engineering, MLOps...**
-
-- 📫 How to reach me **nyantudrealban@gmail.com**
+- 🏋🏾‍♂️ Top Skills: **Data Science, Machine Learning, Deep Learning, NLP, Data Engineering, MLOps...**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anyantudre/](https://www.linkedin.com/in/anyantudre/)
 
