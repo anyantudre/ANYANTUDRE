@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ANYANTUDRE?tab=repositories](https://github.com/ANYANTUDRE?tab=repositories)
 
-- 📝 I regularly write articles on [https://anyantudre.medium.com/](https://anyantudre.medium.com/)
-
 - 💬 Top Skills **Data Science, Machine Learning, Deep Learning, NLP, Data Engineering, MLOps...**
 
 - 📫 How to reach me **nyantudrealban@gmail.com**
