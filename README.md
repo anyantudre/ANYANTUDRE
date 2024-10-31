@@ -44,7 +44,7 @@
   </a> 
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> 
   </a> 
 
    <a href="https://huggingface.co/docs/transformers/index" target="_blank" rel="noreferrer"> 
