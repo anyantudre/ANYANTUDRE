@@ -1,5 +1,5 @@
 <div align=center>
-          <img alt="gif" align="center" src="https://github.com/ANYANTUDRE/ANYANTUDRE/blob/main/img/linkedin%20banner.png" width=1000 height=200/>
+          <img alt="gif" align="center" src="https://github.com/ANYANTUDRE/ANYANTUDRE/blob/main/img/linkedin_banner_V2.png" width=1000 height=200/>
 </div>
 
 <h4 align="center">A firm believer in the power of Data combined with AI to drive meaningful change and make our world and Africa in particular a much better place 🌱</h4>
