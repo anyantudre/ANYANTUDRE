@@ -2,7 +2,7 @@
           <img alt="gif" align="center" src="https://github.com/ANYANTUDRE/ANYANTUDRE/blob/main/img/linkedin_banner_V2.png" width=1000 height=200/>
 </div>
 
-- 🔭 My current work focuses on building **Speech** models for [Mooré language](https://en.wikipedia.org/wiki/Moor%C3%A9)** and methods for **securing AI models**.
+- 🔭 My current work focuses on building **Speech models** for [Mooré language](https://en.wikipedia.org/wiki/Moor%C3%A9) and methods for **securing AI models**.
 
 - 🌱 I’m currently learning **LLMs and MLOps**
 
