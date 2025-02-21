@@ -59,5 +59,9 @@
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/langfr-180px-Apache_Spark_logo.svg.png" alt="flask" width="80" height="40"/> 
   </a> 
+
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*kdp_y7VTwZ-499q6.png" alt="flask" width="80" height="40"/> 
+  </a> 
  
 </p>
