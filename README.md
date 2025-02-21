@@ -49,7 +49,7 @@
   </a> 
   
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/180px-Microsoft_Azure.svg.png" alt="flask" width="50" height="50"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/180px-Microsoft_Azure.svg.png" alt="flask" width="45" height="45"/> 
   </a> 
 
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
