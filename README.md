@@ -33,7 +33,7 @@
   </a>   
 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">      
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" alt="tensorflow" width="100" height="50"/> 
+    <img src="https://icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png" alt="pytorch" width="100" height="50"/> 
   </a> 
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
