@@ -2,15 +2,12 @@
           <img alt="gif" align="center" src="https://github.com/ANYANTUDRE/ANYANTUDRE/blob/main/img/linkedin_banner_V2.png" width=1000 height=200/>
 </div>
 
-<h4 align="center">A firm believer in the power of Data combined with AI to drive meaningful change and make our world and Africa in particular a much better place 🌱</h4>
+- 🔭 My current work focus building on **Translation, ASR and TTS models for [Mooré language](https://en.wikipedia.org/wiki/Moor%C3%A9)**
 
-- 🔭 I’m currently working on **Neural Machine Translation(NMT) and Text to Speech(TTS) models for [Mooré language](https://en.wikipedia.org/wiki/Moor%C3%A9)**
-
-- 🌱 I’m currently learning **Machine Learning Operations (MLOps)**
+- 🌱 I’m currently learning **LLMs and MLOps**
 
 - 🏋🏾‍♂️ Top Skills: **Data Science, Machine Learning, Deep Learning, NLP, Data Engineering, MLOps...**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anyantudre/](https://www.linkedin.com/in/anyantudre/)
 
 <h2 align="center">Languages and Tools:</h3>
 <p align="center"> 
