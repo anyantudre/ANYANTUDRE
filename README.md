@@ -25,7 +25,7 @@
   </a> 
 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">      
-    <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" alt="pytorch" width="50" height="50"/> 
+    <img src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch" width="50" height="50"/> 
   </a> 
 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">      
